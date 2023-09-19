@@ -17,6 +17,9 @@
 /* 	overflow:auto; */
 	
 }
+p{
+	font-size:20px;
+}
 .container img{
 	width:300px;
 	height:300px;
